@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This project aims to develop a semantic search pipeline for extracting relevant keywords from English articles and evaluating different models for text similarity. The primary focus is to compare traditional NLP methods with deep learning models to determine which provides the best performance in retrieving relevant information.
+This project aims to develop a semantic search pipeline for extracting relevant keywords from English articles and evaluating different models for text similarity. The LSI machine learning model achieved a Mean Average Precision (MAP) of 87%. Additionally, a pretrained deep learning model (LaBSE) was utilized for comparison.
 
 ## Data Description
 
